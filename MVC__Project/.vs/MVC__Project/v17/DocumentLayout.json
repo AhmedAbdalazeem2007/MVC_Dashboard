@@ -1,0 +1,1290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MVC__Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\views\\account\\emailtemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\account\\emailtemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\account\\checkyourinbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\helper\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\mapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\mapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\mapper\\roleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\mapper\\roleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\viewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\viewmodels\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\viewmodels\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|d:\\projects\\mvc__project\\e_commerece_pl\\settings\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\settings\\mailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|d:\\projects\\mvc__project\\mvc_dal\\models\\smsmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:mvc_dal\\models\\smsmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|d:\\projects\\mvc__project\\mvc_dal\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:mvc_dal\\models\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|D:\\Projects\\MVC__Project\\mvc_dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:mvc_dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|d:\\projects\\mvc__project\\mvc_dal\\migrations\\20240516121810_cretw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:mvc_dal\\migrations\\20240516121810_cretw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\shared\\authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\shared\\authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\wwwroot\\css\\authlayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\wwwroot\\css\\authlayout.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|D:\\Projects\\MVC__Project\\mvc_dal\\contexts\\mvcdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:mvc_dal\\contexts\\mvcdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|D:\\Projects\\MVC__Project\\mvc_dal\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:mvc_dal\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\employee\\partialviews\\createeditemployeeparislview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\employee\\partialviews\\createeditemployeeparislview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|D:\\Projects\\MVC__Project\\mvc_bll\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|solutionrelative:mvc_bll\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|D:\\Projects\\MVC__Project\\mvc_bll\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|solutionrelative:mvc_bll\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|D:\\Projects\\MVC__Project\\mvc_bll\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|solutionrelative:mvc_bll\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|D:\\Projects\\MVC__Project\\mvc_bll\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|solutionrelative:mvc_bll\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|D:\\Projects\\MVC__Project\\mvc_bll\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|solutionrelative:mvc_bll\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|D:\\Projects\\MVC__Project\\mvc_bll\\interfaces\\igenericrepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|solutionrelative:mvc_bll\\interfaces\\igenericrepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|D:\\Projects\\MVC__Project\\mvc_bll\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|solutionrelative:mvc_bll\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|D:\\Projects\\MVC__Project\\mvc_bll\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|solutionrelative:mvc_bll\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\employee\\partialviews\\detailsdeleteemployeepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\employee\\partialviews\\detailsdeleteemployeepartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|D:\\Projects\\MVC__Project\\mvc_dal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:mvc_dal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|D:\\Projects\\MVC__Project\\mvc_dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:mvc_dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\mapper\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\mapper\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\viewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\viewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\mapper\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\mapper\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|D:\\Projects\\MVC__Project\\mvc_bll\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B417DB2-9B30-4AD9-BE08-4BEDB5AD75B2}|MVC_BLL\\MVC_BLL.csproj|solutionrelative:mvc_bll\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|D:\\Projects\\MVC__Project\\mvc_dal\\migrations\\20240512104322_employeedepartmenrrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:mvc_dal\\migrations\\20240512104322_employeedepartmenrrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|D:\\Projects\\MVC__Project\\mvc_dal\\configuration\\employeeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:mvc_dal\\configuration\\employeeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|D:\\Projects\\MVC__Project\\mvc_dal\\configuration\\departmentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:mvc_dal\\configuration\\departmentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\shared\\_buttonspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\shared\\_buttonspartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|D:\\Projects\\MVC__Project\\mvc_dal\\migrations\\20240512073747_create2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:mvc_dal\\migrations\\20240512073747_create2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240512074214_create3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:MVC_DAL\\Migrations\\20240512074214_create3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240512104447_employeedepartmenrrel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:MVC_DAL\\Migrations\\20240512104447_employeedepartmenrrel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240512225038_imagecolumnb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:MVC_DAL\\Migrations\\20240512225038_imagecolumnb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|D:\\Projects\\MVC__Project\\e_commerece_pl\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1EFC14-CDE6-4CF5-85FD-5C1DC6054959}|E_Commerece_PL\\E_Commerece_PL.csproj|solutionrelative:e_commerece_pl\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240513011229_ooppj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1796D575-5EC8-472F-9EF3-3F392092E5DF}|MVC_DAL\\MVC_DAL.csproj|solutionrelative:MVC_DAL\\Migrations\\20240513011229_ooppj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckYourInbox.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Account\\CheckYourInbox.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Account\\CheckYourInbox.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Account\\CheckYourInbox.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Account\\CheckYourInbox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:02:49.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T23:55:44.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAsAAACAZWZmZmYswFoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T05:13:58.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACAAAADA/P////8nwCEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:47:45.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Program.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Program.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Program.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Program.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAArwFkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:28:50.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailTemplate.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Account\\EmailTemplate.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Account\\EmailTemplate.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Account\\EmailTemplate.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Account\\EmailTemplate.cshtml",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:03:39.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForgetPassword.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Account\\ForgetPassword.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Account\\ForgetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:04:20.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Account\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T13:05:21.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:27:08.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAH0AAAAAbGZmZmYPwI4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:47:37.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Controllers\\UserController.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:52:35.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Helper\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Helper\\EmailSettings.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Helper\\EmailSettings.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Helper\\EmailSettings.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:44:39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Mapper\\UserProfile.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Mapper\\UserProfile.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Mapper\\UserProfile.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Mapper\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:41:22.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Mapper\\RoleProfile.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Mapper\\RoleProfile.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Mapper\\RoleProfile.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Mapper\\RoleProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:40:50.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "E_Commerece_PL\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:37:00.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\ViewModels\\RoleViewModel.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\RoleViewModel.cs",
+              "RelativeToolTip": "E_Commerece_PL\\ViewModels\\RoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:36:24.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\ViewModels\\ResetPasswordViewModel.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "E_Commerece_PL\\ViewModels\\ResetPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:35:47.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ForgetPasswordViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\ForgetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\ViewModels\\ForgetPasswordViewModel.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\ForgetPasswordViewModel.cs",
+              "RelativeToolTip": "E_Commerece_PL\\ViewModels\\ForgetPasswordViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:34:29.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MailSettings.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Settings\\MailSettings.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Settings\\MailSettings.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Settings\\MailSettings.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Settings\\MailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:27:12.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SmsMessage.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Models\\SmsMessage.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Models\\SmsMessage.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Models\\SmsMessage.cs",
+              "RelativeToolTip": "MVC_DAL\\Models\\SmsMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:20:27.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Email.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Models\\Email.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Models\\Email.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Models\\Email.cs",
+              "RelativeToolTip": "MVC_DAL\\Models\\Email.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvw8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:19:22.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240516121810_cretw.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240516121810_cretw.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Migrations\\20240516121810_cretw.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240516121810_cretw.cs",
+              "RelativeToolTip": "MVC_DAL\\Migrations\\20240516121810_cretw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:18:11.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Authlayout.css",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\wwwroot\\css\\Authlayout.css",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\wwwroot\\css\\Authlayout.css",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\wwwroot\\css\\Authlayout.css",
+              "RelativeToolTip": "E_Commerece_PL\\wwwroot\\css\\Authlayout.css",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAUwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-13T00:06:31.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T05:10:01.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "MVC_DAL\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:43:41.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Authlayout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Shared\\Authlayout.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Shared\\Authlayout.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Shared\\Authlayout.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Shared\\Authlayout.cshtml",
+              "ViewState": "AQIAAAEAAAAAOjMzMzMwwA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T00:04:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "E_Commerece_PL\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:18:37.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAcAAAAALTMzM7MiwBAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T01:00:56.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T00:16:58.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "global.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\global.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\global.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\global.cs",
+              "RelativeToolTip": "E_Commerece_PL\\global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:27:33.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "E_Commerece_PL\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T00:18:54.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "global.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\global.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\global.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\global.cs",
+              "RelativeToolTip": "MVC_DAL\\global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:34:38.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20240513011229_ooppj.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240513011229_ooppj.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Migrations\\20240513011229_ooppj.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240513011229_ooppj.cs",
+              "RelativeToolTip": "MVC_DAL\\Migrations\\20240513011229_ooppj.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T01:12:30.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MVCDataBase.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Contexts\\MVCDataBase.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Contexts\\MVCDataBase.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Contexts\\MVCDataBase.cs",
+              "RelativeToolTip": "MVC_DAL\\Contexts\\MVCDataBase.cs",
+              "ViewState": "AQIAAAMAAADAMjMzMzMrwBIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:44:00.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T08:02:13.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CreateEditEmployeeParislView.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\PartialViews\\CreateEditEmployeeParislView.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Employee\\PartialViews\\CreateEditEmployeeParislView.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\PartialViews\\CreateEditEmployeeParislView.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Employee\\PartialViews\\CreateEditEmployeeParislView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T09:32:26.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_BLL\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MVC_BLL\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_BLL\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "MVC_BLL\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AQIAAAkAAAAA//////8fwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:04:01.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_BLL\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "MVC_BLL\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_BLL\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "MVC_BLL\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:54:10.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_BLL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MVC_BLL\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_BLL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "MVC_BLL\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:02:54.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_BLL\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MVC_BLL\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_BLL\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "MVC_BLL\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:44:51.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_BLL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "MVC_BLL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_BLL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "MVC_BLL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAABgAAAAA/////788wCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:52:22.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IGenericRepositorycs.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_BLL\\Interfaces\\IGenericRepositorycs.cs",
+              "RelativeDocumentMoniker": "MVC_BLL\\Interfaces\\IGenericRepositorycs.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_BLL\\Interfaces\\IGenericRepositorycs.cs",
+              "RelativeToolTip": "MVC_BLL\\Interfaces\\IGenericRepositorycs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:47:06.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_BLL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "MVC_BLL\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_BLL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "MVC_BLL\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:44:16.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_BLL\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "MVC_BLL\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_BLL\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "MVC_BLL\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:49:57.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DetailsDEleteEmployeePartialView.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\PartialViews\\DetailsDEleteEmployeePartialView.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Employee\\PartialViews\\DetailsDEleteEmployeePartialView.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\PartialViews\\DetailsDEleteEmployeePartialView.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Employee\\PartialViews\\DetailsDEleteEmployeePartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T22:18:43.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T08:21:24.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Department\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Department\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T05:23:09.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAABMPRgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T07:49:02.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Department\\Create.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Department\\Create.cshtml",
+              "ViewState": "AQIAABEAAACANTMzMzMLwBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T06:12:58.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\ViewModels\\EmployeeViewModel.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeToolTip": "E_Commerece_PL\\ViewModels\\EmployeeViewModel.cs",
+              "ViewState": "AQIAABAAAACgZmZmZmYrwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:09:46.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240512225038_imagecolumnb.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240512225038_imagecolumnb.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Migrations\\20240512225038_imagecolumnb.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240512225038_imagecolumnb.cs",
+              "RelativeToolTip": "MVC_DAL\\Migrations\\20240512225038_imagecolumnb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:50:38.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Models\\Employee.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Models\\Employee.cs",
+              "RelativeToolTip": "MVC_DAL\\Models\\Employee.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:33:08.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T08:20:15.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Models\\Department.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Models\\Department.cs",
+              "RelativeToolTip": "MVC_DAL\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:35:25.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Mapper\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Mapper\\EmployeeProfile.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Mapper\\EmployeeProfile.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Mapper\\EmployeeProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:05:57.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Department\\Delete.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Department\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T07:22:31.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AQIAABIAAACA/v////8QwBYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T06:48:03.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Department\\Details.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Department\\Details.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Department\\Details.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Department\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T06:36:41.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DepartmentViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\DepartmentViewModel.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\ViewModels\\DepartmentViewModel.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\ViewModels\\DepartmentViewModel.cs",
+              "RelativeToolTip": "E_Commerece_PL\\ViewModels\\DepartmentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:06:34.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Mapper\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Mapper\\DepartmentProfile.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Mapper\\DepartmentProfile.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Mapper\\DepartmentProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:06:56.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Mapper\\MappingProfile.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "E_Commerece_PL\\Mapper\\MappingProfile.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:13:45.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T08:20:49.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "global.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_BLL\\global.cs",
+              "RelativeDocumentMoniker": "MVC_BLL\\global.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_BLL\\global.cs",
+              "RelativeToolTip": "MVC_BLL\\global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:48:15.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T05:12:08.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240512104447_employeedepartmenrrel.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240512104447_employeedepartmenrrel.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Migrations\\20240512104447_employeedepartmenrrel.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240512104447_employeedepartmenrrel.cs",
+              "RelativeToolTip": "MVC_DAL\\Migrations\\20240512104447_employeedepartmenrrel.cs",
+              "ViewState": "AQIAAAcAAADo/////385wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:44:47.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\appsettings.json",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\appsettings.json",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\appsettings.json",
+              "RelativeToolTip": "E_Commerece_PL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-12T04:22:57.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240512104322_employeedepartmenrrelation.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240512104322_employeedepartmenrrelation.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Migrations\\20240512104322_employeedepartmenrrelation.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240512104322_employeedepartmenrrelation.cs",
+              "RelativeToolTip": "MVC_DAL\\Migrations\\20240512104322_employeedepartmenrrelation.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwB4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:43:23.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DepartmentConfig.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Configuration\\DepartmentConfig.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Configuration\\DepartmentConfig.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Configuration\\DepartmentConfig.cs",
+              "RelativeToolTip": "MVC_DAL\\Configuration\\DepartmentConfig.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T04:38:49.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "EmployeeConfig.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Configuration\\EmployeeConfig.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Configuration\\EmployeeConfig.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Configuration\\EmployeeConfig.cs",
+              "RelativeToolTip": "MVC_DAL\\Configuration\\EmployeeConfig.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:38:12.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_ButtonsPartialView.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Shared\\_ButtonsPartialView.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Shared\\_ButtonsPartialView.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Shared\\_ButtonsPartialView.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Shared\\_ButtonsPartialView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T09:19:59.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T05:11:26.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240512074214_create3.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240512074214_create3.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Migrations\\20240512074214_create3.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240512074214_create3.cs",
+              "RelativeToolTip": "MVC_DAL\\Migrations\\20240512074214_create3.cs",
+              "ViewState": "AQIAADsAAAAA+v///38XwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:42:14.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240512073747_create2.cs",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240512073747_create2.cs",
+              "RelativeDocumentMoniker": "MVC_DAL\\Migrations\\20240512073747_create2.cs",
+              "ToolTip": "D:\\Projects\\MVC__Project\\MVC_DAL\\Migrations\\20240512073747_create2.cs",
+              "RelativeToolTip": "MVC_DAL\\Migrations\\20240512073747_create2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:37:47.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "E_Commerece_PL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Projects\\MVC__Project\\E_Commerece_PL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "E_Commerece_PL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T05:11:23.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

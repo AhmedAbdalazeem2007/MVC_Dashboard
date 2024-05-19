@@ -1,0 +1,15 @@
+D:\Projects\MVC__Project\MVC_BLL\bin\Debug\net8.0\MVC_BLL.deps.json
+D:\Projects\MVC__Project\MVC_BLL\bin\Debug\net8.0\MVC_BLL.dll
+D:\Projects\MVC__Project\MVC_BLL\bin\Debug\net8.0\MVC_BLL.pdb
+D:\Projects\MVC__Project\MVC_BLL\bin\Debug\net8.0\MVC_DAL.dll
+D:\Projects\MVC__Project\MVC_BLL\bin\Debug\net8.0\MVC_DAL.pdb
+D:\Projects\MVC__Project\MVC_BLL\obj\Debug\net8.0\MVC_BLL.csproj.AssemblyReference.cache
+D:\Projects\MVC__Project\MVC_BLL\obj\Debug\net8.0\MVC_BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MVC__Project\MVC_BLL\obj\Debug\net8.0\MVC_BLL.AssemblyInfoInputs.cache
+D:\Projects\MVC__Project\MVC_BLL\obj\Debug\net8.0\MVC_BLL.AssemblyInfo.cs
+D:\Projects\MVC__Project\MVC_BLL\obj\Debug\net8.0\MVC_BLL.csproj.CoreCompileInputs.cache
+D:\Projects\MVC__Project\MVC_BLL\obj\Debug\net8.0\MVC_BLL.csproj.Up2Date
+D:\Projects\MVC__Project\MVC_BLL\obj\Debug\net8.0\MVC_BLL.dll
+D:\Projects\MVC__Project\MVC_BLL\obj\Debug\net8.0\refint\MVC_BLL.dll
+D:\Projects\MVC__Project\MVC_BLL\obj\Debug\net8.0\MVC_BLL.pdb
+D:\Projects\MVC__Project\MVC_BLL\obj\Debug\net8.0\ref\MVC_BLL.dll

@@ -1,0 +1,34 @@
+﻿@model RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/Authlayout.cshtml";
+}
+
+<div id="form">
+    <form method="get" asp-action="Register">
+        <table id="table">
+         
+            <tr>
+                <td>
+                    EMAIL ID:
+                </td>
+                <td>
+                    <input id="email"asp-for="Email" size="30" maxlength="100" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button type="submit">Submit</button>
+                    <button type="reset">Reset</button>
+                </td>
+            </tr>
+
+        </table>
+    </form>
+
+
+</div>
+
+@section Validationscriptpartial {
+    <partial name="_ValidationScriptsPartial" />
+}
